@@ -56,4 +56,4 @@ What does this bat do?
 ```
 > If Spotify isn't cracked, u can try install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
 
-_CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando (nvme), etc.._ 
+_CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
