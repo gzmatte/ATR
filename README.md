@@ -1,7 +1,6 @@
 # Just Another Windows Tweaker...
 
-A batch to pre-install and tweak CUSTOMS Windows 10[^1]
-[^1]: I don't support Windows 10 default. Use a custom 20h2+ OS like: xOS/LEET/kernelOS/foxOS/imOS/raxOS/ggOS...
+A batch to pre-install and tweak Windows 10.
 
 > This is a personal project, i don't want nothing, i'm not stealing[^2].
 [^2]: I just doing this for my personal use, fun and learning. Maybe i recopile code and tweaks from other people, having credits at the end of the page. If u wanna delete this, contact me on discord @mate.o
