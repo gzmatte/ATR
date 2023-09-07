@@ -1,4 +1,4 @@
-# ATR | Another Tweaker, really?
+# ATR
 
 A batch to pre-install and tweak Windows 10.
 
