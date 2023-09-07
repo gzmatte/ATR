@@ -1,4 +1,4 @@
-![LOGO](https://github.com/gzmatte/ATR/assets/117684932/21efb9c7-1362-47ff-8ab5-45796a48e2db)
+![3](https://github.com/gzmatte/ATR/assets/117684932/6de870ee-8cd0-4c09-9b8e-9a17fd0a02c8)
 
 
 A batch to pre-install and tweak Windows 10.
