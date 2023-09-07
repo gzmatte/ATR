@@ -3,8 +3,8 @@
 
 A batch to pre-install and tweak Windows 10.
 
-> This is a personal project, i don't want nothing, i'm not stealing. [^x]
-[^x]: I JUST DOING THIS FOR PERSONAL USE & LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME ON DISCORD @mate.o
+> This is a personal use project. [^x]
+[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME ON DISCORD @mate.o
 
 ### ★ [Download here](https://github.com/gzmatte/JAWT/releases/download/1/JAWT.bat)
 
