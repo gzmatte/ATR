@@ -21,7 +21,7 @@ What does this bat do?
 
 > Provides Debloated Drivers for Nvidia/AMD.
 
-> Provides a CUSTOM SAMSUNG MODDED DRIVER for any NVME SSD.
+> Provides a Custom Modded NVME driver.
 
 > Tweaks your GPU with unique tweaks for each brand.
 
