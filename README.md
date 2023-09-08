@@ -6,7 +6,7 @@ A batch to pre-install and tweak Windows 10.
 > This is a personal use project. [^x]
 [^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME ON DISCORD @mate.o
 
-### ★ [Download here](https://github.com/gzmatte/JAWT/releases/download/1/JAWT.bat)
+### ★ [Download here](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
 
 </br> 
