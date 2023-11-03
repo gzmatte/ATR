@@ -1,7 +1,7 @@
 ![Logo](https://github.com/gzmatte/ATR/assets/117684932/8b80cc5d-2017-4418-8bac-705fa88bb6bc)
 
 
-A batch to pre-install any Windows 10.
+A batch to post-install any Windows 10.
 
 > This is a personal use project. [^x]
 [^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
