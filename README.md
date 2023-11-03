@@ -4,7 +4,7 @@
 A batch to pre-install and tweak Windows 10.
 
 > This is a personal use project. [^x]
-[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME ON DISCORD @mate.o
+[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME gzmatte.github.io
 
 ### ★ [Download here](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
