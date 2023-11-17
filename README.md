@@ -49,6 +49,6 @@ What does this bat do?
 > And a lot more.
 
 ```
-> If Spotify isn't cracked, u can install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
+> If u need to crack spotify, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
 
 _CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
