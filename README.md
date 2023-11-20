@@ -4,10 +4,10 @@
 
 A batch to post-install any Windows 10.
 
+[<img src="https://github.com/gzmatte/trash/blob/main/0Download.png">](https://gzmatte.github.io/)
+
 > This is a personal use project. [^x]
 [^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
-
-[<img src="https://github.com/gzmatte/trash/blob/main/0Download.png">](https://gzmatte.github.io/)
 
 
 </br> 
