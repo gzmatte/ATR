@@ -1,4 +1,5 @@
-![Logo](https://github.com/gzmatte/ATR/assets/117684932/8b80cc5d-2017-4418-8bac-705fa88bb6bc)
+![Logo](https://github.com/gzmatte/ATR/assets/117684932/991378eb-b95b-4011-bf66-000f3dfe176d)
+
 
 
 A batch to post-install any Windows 10.
