@@ -44,11 +44,8 @@ What does this bat do?
 > And a lot more.
 
 ```
-> If u need to crack spotify, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
+If u need to crack spotify, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
 
 _CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
 
-
-
-
-_I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io_
+> _I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io_
