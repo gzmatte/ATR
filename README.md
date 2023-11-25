@@ -1,11 +1,8 @@
 ![ATRt](https://github.com/gzmatte/ATR/assets/117684932/5a4d459b-dfe5-4d73-b08b-2c4e0befd585)
 -----------
-
 **A batch to post-install any Windows 10.**
 
-
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
-
 
 </br> 
 
