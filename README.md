@@ -1,10 +1,9 @@
-![Logo](https://github.com/gzmatte/trash/blob/main/0ATR-MENU.png)
+![ATRt](https://github.com/gzmatte/ATR/assets/117684932/5a4d459b-dfe5-4d73-b08b-2c4e0befd585)
+-----------
 
+**A batch to post-install any Windows 10.**
 
-
-A batch to post-install any Windows 10.
-
-### ★ [Download here](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
+#### ★ [Download here](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
 > This is a personal use project. [^x]
 [^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
