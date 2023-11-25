@@ -5,9 +5,6 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
-> This is a personal use project. [^x]
-[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
-
 
 </br> 
 
@@ -50,5 +47,8 @@ What does this bat do?
 
 ```
 > If u need to crack spotify, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
+
+> This is a personal use project. [^x]
+[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
 
 _CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
