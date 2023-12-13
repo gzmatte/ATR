@@ -5,7 +5,7 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
 > [!TIP]
-> Its recommended to use a Custom OS, [Kernel 22h2 AiO](https://discord.gg/kernelos) is currently the best in performance & compatibility.`
+> Its recommended to use a Custom OS, [Kernel 22h2 AiO](https://discord.gg/kernelos) is currently the most stable.
 
 </br> 
 
