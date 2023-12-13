@@ -5,7 +5,7 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
 > [!NOTE]
-> Its recommended to use a Windows Custom, [KernelOS](https://github.com/trash/blob/main/kos.md) is currently the most stable for any specs.
+> Its recommended to use a Windows Custom, [KernelOS](https://github.com/gzmatte/trash/main/kos.md/) is currently the most stable for any specs.
 
 </br> 
 
