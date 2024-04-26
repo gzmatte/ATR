@@ -19,7 +19,7 @@ What does this bat do?
 
 > Network Tweaks.
 
-> Installs Old Spotify and debloats it. (NOT WORKING ANYMORE)
+> Installs Old Spotify and debloats it. (NOT WORKING ON W11 IDKWHY)
 
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
