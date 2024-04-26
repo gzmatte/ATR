@@ -1,6 +1,6 @@
 ![ATRt](https://github.com/gzmatte/ATR/assets/117684932/5a4d459b-dfe5-4d73-b08b-2c4e0befd585)
 -----------
-**A batch to post-install any Windows 10.**
+**My personal batch to post-install any Windows 10/11.**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
@@ -11,8 +11,6 @@ What does this bat do?
 
 > Installs Firefox & Debloats it.
 
-> Installs Timer Resolution Background Service (0.5ms).
-
 > Provides Debloated Drivers for Nvidia/AMD.
 
 > Provides a Custom Modded NVME driver.
@@ -21,17 +19,15 @@ What does this bat do?
 
 > Network Tweaks.
 
-> Installs Old Spotify and debloats it.
+> Installs Old Spotify and debloats it. (NOT WORKING ANYMORE)
 
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
 > Provides CS2 Tweaks
 
-> Installs Discord & Debloats it.
+> Installs Discord (64bits) & Debloats it.
 
 > Installs OBS, debloats it and setups it.
-
-> Installs Valorant & Tweaks it.
 
 > Includes OnBoardMemoryManager for Logitech.
 
@@ -39,7 +35,7 @@ What does this bat do?
 
 > Automatic CleanUps Temps folders.
 
-> A Lot of Tweaks + Experimental Tweaks for W10 22h2.
+> A Lot of Tweaks + Experimental Tweaks.
 
 > And a lot more.
 
