@@ -9,9 +9,9 @@
 ```
 What does this bat do?
 
-> Installs Firefox & Debloats it.
+> Installs Browser & Debloats it.
 
-> Provides Debloated Drivers for Nvidia/AMD.
+> Provides Debloated & Custom Drivers for Nvidia/AMD.
 
 > Provides a Custom Modded NVME driver.
 
@@ -19,13 +19,11 @@ What does this bat do?
 
 > Network Tweaks.
 
-> Installs Old Spotify and debloats it. (NOT WORKING ON W11 IDKWHY)
-
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
-> Provides CS2 Tweaks
+> Provides CS2 Tweaks.
 
-> Installs Discord (64bits) & Debloats it.
+> Installs Discord & Tweaks it.
 
 > Installs OBS, debloats it and setups it.
 
