@@ -43,4 +43,4 @@ What does this bat do?
 
 If u need to crack spotify, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
 
-_CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
+_CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc._
