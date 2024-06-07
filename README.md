@@ -6,8 +6,8 @@
 
 
 > [!TIP]
-> In Windows Default you may not have enough permissions.
-> I recommend installing XOS.
+> If u are in Windows Default u may not have enough permissions.
+> I recommend installing XOS or a custom OS.
 
 
 </br> 
