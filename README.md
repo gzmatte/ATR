@@ -8,8 +8,8 @@
 > [!TIP]
 > In Default Windows you might experience issues.
 > 
-> I recommend installing XOS or a custom OS.
-
+> I recommend installing XOS or a custom OS. [^1]
+[^1]: https://discord.gg/XTYEjZNPgX
 
 </br> 
 
