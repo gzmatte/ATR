@@ -6,7 +6,7 @@
 
 
 > [!TIP]
-> If u are in Windows Default u may not have enough permissions.
+> In Default Windows u may experience issues.
 > I recommend installing XOS or a custom OS.
 
 
