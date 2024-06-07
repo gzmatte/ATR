@@ -2,13 +2,13 @@
 -----------
 **A batch to post-install any Windows 10/11.**
 
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
+
 
 > [!TIP]
-> If u aren't in a Custom OS, you may have permissions problems with this.
+> In Windows Default you may not have enough permissions.
 > I recommend installing XOS.
 
-
-[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ATR/releases/download/1/ATR.bat)
 
 </br> 
 
