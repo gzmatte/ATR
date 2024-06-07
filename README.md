@@ -7,6 +7,7 @@
 
 > [!TIP]
 > In Default Windows you may experience issues.
+> 
 > I recommend installing XOS or a custom OS.
 
 
