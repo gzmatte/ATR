@@ -9,7 +9,7 @@
 > In Default Windows you might experience issues.
 > 
 > I recommend installing a custom OS. [^1]
-[^1]:     |      XOS https://discord.gg/XTYEjZNPgX      |      SAPPHIREOS https://discord.gg/4aNYHSEHYw      |      KERNELOS https://dsc.gg/kernelos      |      LEET https://www.dsc.gg/leetos      |
+[^1]:     |      SAPPHIREOS https://discord.gg/4aNYHSEHYw      |      XOS https://discord.gg/XTYEjZNPgX      |      LEET https://www.dsc.gg/leetos      |      KERNELOS https://dsc.gg/kernelos      |
 
 </br> 
 
