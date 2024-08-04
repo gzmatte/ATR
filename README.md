@@ -28,7 +28,7 @@ What does this bat do?
 
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
-> Provides CS2 Tweaks.
+> Provides CS2/Valorant/Fortnite "Tweaks"...
 
 > Installs Discord & Tweaks it (Also provides ArmCord).
 
