@@ -30,9 +30,9 @@ What does this bat do?
 
 > Provides CS2 Tweaks.
 
-> Installs Discord & Tweaks it.
+> Installs Discord & Tweaks it (Also provides ArmCord).
 
-> Installs Spotify LRM.
+> Installs Spotify LRM from my Github.
 
 > Installs OBS, debloats it and setups it.
 
