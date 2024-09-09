@@ -13,8 +13,6 @@
 
 </br> 
 
-(Yeah, titled ATR because of the stupid argentinian expression.)
-
 ```
 What does this bat do?
 
@@ -51,3 +49,6 @@ What does this bat do?
 ```
 
 _CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc._
+
+
+_(Yeah, titled ATR because of the stupid argentinian expression.)_
