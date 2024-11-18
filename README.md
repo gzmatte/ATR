@@ -10,7 +10,7 @@
 
 
 > [!TIP]
-> In Default Windows you might not achieve the -climax-.
+> In default windows you might not achieve the _climax_.
 > 
 > I recommend installing a custom OS. [^1]
 [^1]:     |      SAPPHIREOS https://discord.gg/4aNYHSEHYw      |      XOS https://discord.gg/XTYEjZNPgX      |      LEET https://www.dsc.gg/leetos      |      KERNELOS https://dsc.gg/kernelos      |
